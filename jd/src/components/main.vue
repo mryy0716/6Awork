@@ -493,261 +493,21 @@
                             </swiper>
                         </div>
                     </div>
-
-                    <!-- 逛商场 -->
-                    <div class="real_box">
-                        <div class="hr_img">
-                            <img src="../../static/img/hr/1 (5).jpg">
-                        </div>
-                        <div class="real-show">
-                            <div class="graphic-text">
-                                <strong class="graphic-tit">闪购</strong>
-                                <p class="graphic-wz">统统1块钱</p>
-                            </div>
-                            <div class="graphic-img">
-                                <img src="../../static/img/product/01 (1).jpg">
-                            </div>
-                        </div>
-                        <div class="real-show">
-                            <div class="graphic-text">
-                                <strong class="graphic-tit">闪购</strong>
-                                <p class="graphic-wz">统统1块钱</p>
-                            </div>
-                            <div class="graphic-img">
-                                <img src="../../static/img/product/01 (1).jpg">
-                            </div>
-                        </div>
-                        <div class="real-show">
-                            <div class="graphic-text">
-                                <strong class="graphic-tit">闪购</strong>
-                                <p class="graphic-wz">统统1块钱</p>
-                            </div>
-                            <div class="graphic-img">
-                                <img src="../../static/img/product/01 (1).jpg">
-                            </div>
-                        </div>
-                        <div class="real-show">
-                            <div class="graphic-text">
-                                <strong class="graphic-tit">发现好货</strong>
-                                <p class="graphic-wz">发现品质生</p>
-                            </div>
-                            <div class="graphic-img">
-                                <img src="../../static/img/product/01 (1).jpg">
-                            </div>
-                        </div>
-                        <div class="real-show">
-                            <div class="real-l">
-                                <div class="graphic-text_1">
-                                    <strong class="graphic-tit_1">发现好货</strong>
-                                    <p class="graphic-wz_1">发现品质生活</p>
-                                </div>
-                                <div class="graphic-imgs">
-                                    <img src="../../static/img/product/01 (5).jpg">
-                                </div>
-                            </div>
-                            <div class="real-r">
-                                <div class="graphic-text_1">
-                                    <strong class="graphic-tit_1">发现好货</strong>
-                                    <p class="graphic-wz_1">发现品质生活</p>
-                                </div>
-                                <div class="graphic-imgs">
-                                    <img src="../../static/img/product/01 (5).jpg">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="real-show">
-                            <div class="real-l">
-                                <div class="graphic-text_1">
-                                    <strong class="graphic-tit_1">发现好货</strong>
-                                    <p class="graphic-wz_1">发现品质生活</p>
-                                </div>
-                                <div class="graphic-imgs">
-                                    <img src="../../static/img/product/01 (5).jpg">
-                                </div>
-                            </div>
-                            <div class="real-r">
-                                <div class="graphic-text_1">
-                                    <strong class="graphic-tit_1">发现好货</strong>
-                                    <p class="graphic-wz_1">发现品质生活</p>
-                                </div>
-                                <div class="graphic-imgs">
-                                    <img src="../../static/img/product/01 (5).jpg">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="real-show">
-                            <div class="real-l">
-                                <div class="graphic-text_1">
-                                    <strong class="graphic-tit_1">发现好货</strong>
-                                    <p class="graphic-wz_1">发现品质生活</p>
-                                </div>
-                                <div class="graphic-imgs">
-                                    <img src="../../static/img/product/01 (5).jpg">
-                                </div>
-                            </div>
-                            <div class="real-r">
-                                <div class="graphic-text_1">
-                                    <strong class="graphic-tit_1">发现好货</strong>
-                                    <p class="graphic-wz_1">发现品质生活</p>
-                                </div>
-                                <div class="graphic-imgs">
-                                    <img src="../../static/img/product/01 (5).jpg">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="real-show">
-                            <div class="real-l">
-                                <div class="graphic-text_1">
-                                    <strong class="graphic-tit_1">发现好货</strong>
-                                    <p class="graphic-wz_1">发现品质生活</p>
-                                </div>
-                                <div class="graphic-imgs">
-                                    <img src="../../static/img/product/01 (5).jpg">
-                                </div>
-                            </div>
-                            <div class="real-r">
-                                <div class="graphic-text_1">
-                                    <strong class="graphic-tit_1">发现好货</strong>
-                                    <p class="graphic-wz_1">发现品质生活</p>
-                                </div>
-                                <div class="graphic-imgs">
-                                    <img src="../../static/img/product/01 (5).jpg">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper">
-                            <swiper :options="swiperOption" :not-next-tick="notNextTick" ref="mySwiper" class="header">
-                                <swiper-slide><img src="../../static/img/banner/swiper/3/01.jpg"></swiper-slide>
-                                <swiper-slide><img src="../../static/img/banner/swiper/3/02.jpg"></swiper-slide>
-                                <div class="swiper-pagination"  slot="pagination"></div>
-                            </swiper>
-                        </div>
-                    </div>
-
-                    <!-- 发现好店 -->
-                    <div class="shop-list">
-                        <div class="shop_img">
-                            <img src="../../static/img/hr/1 (1).jpg">
-                            <span>更多精彩<img src="../../static/img/icon/left.png"></span>
-                        </div>
-                        <ul>
-                            <li>
-                                <strong>休闲食品</strong>
-                                <p>吃货集散中心</p>
-                                <div class="hd_img">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                </div>
-                                <p class="b_p">三只松鼠京东自营旗舰店</p>
-                            </li>
-                            <li>
-                                <strong>手机通讯</strong>
-                                <p>是不是在淘手机？</p>
-                                <div class="hd_img">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                </div>
-                                <p class="b_p">京东Apple产品专营店</p>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <!-- 优选清单 -->
-                    <div class="clear"></div>
-                    <div class="shop-list">
-                        <div class="shop_img">
-                            <img src="../../static/img/hr/1 (2).jpg">
-                            <span>更多精彩<img src="../../static/img/icon/left.png"></span>
-                        </div>
-                        <ul>
-                            <li>
-                                <strong>休闲食品</strong>
-                                <div class="hd_img">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                </div>
-                            </li>
-                            <li>
-                                <strong>手机通讯</strong>
-                                <div class="hd_img">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    
-                    <!-- 直播 -->
-                    <div class="clear"></div>
-                    <div class="shop-list">
-                        <div class="shop_img">
-                            <img src="../../static/img/hr/1 (3).jpg">
-                            <span>更多精彩<img src="../../static/img/icon/left.png"></span>
-                        </div>
-                        <ul>
-                            <li>
-                                <strong>休闲食品</strong>
-                                <p>吃货集散中心</p>
-                                <div class="hd_img">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                </div>
-                            </li>
-                            <li>
-                                <strong>手机通讯</strong>
-                                <p>是不是在淘手机？</p>
-                                <div class="hd_img">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                    <img src="../../static/img/product/01 (11).jpg">
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="clear"></div>
                     <div class="tj">
                         <div class="tj_tit">为你推荐</div>
                         <ul>
-                            <li>
-                                <img src="../../static/img/product/01 (83).jpg">
-                                <p>艾璐歌 摩托车 迷你小跑车 四冲程 手拉启动雷鹰…</p>
-                                <p class="xj">￥950.00</p>
+                            <li v-for="item in arr">
+                                <img :src="item.img">
+                                <p>{{item.tex}}</p>
+                                <p class="xj">{{item.price}}</p>
                                 <p class="hp_xs">
-                                    <span>好评率97%</span>
-                                    <button>看相似</button>
-                                </p>
-                            </li>
-                            <li>
-                                <img src="../../static/img/product/01 (83).jpg">
-                                <p>艾璐歌 摩托车 迷你小跑车 四冲程 手拉启动雷鹰…</p>
-                                <p class="xj">￥950.00</p>
-                                <p class="hp_xs">
-                                    <span>好评率97%</span>
-                                    <button>看相似</button>
-                                </p>
-                            </li>
-                            <li>
-                                <img src="../../static/img/product/01 (83).jpg">
-                                <p>艾璐歌 摩托车 迷你小跑车 四冲程 手拉启动雷鹰…</p>
-                                <p class="xj">￥950.00</p>
-                                <p class="hp_xs">
-                                    <span>好评率97%</span>
-                                    <button>看相似</button>
-                                </p>
-                            </li>
-                            <li>
-                                <img src="../../static/img/product/01 (83).jpg">
-                                <p>艾璐歌 摩托车 迷你小跑车 四冲程 手拉启动雷鹰…</p>
-                                <p class="xj">￥950.00</p>
-                                <p class="hp_xs">
-                                    <span>好评率97%</span>
+                                    <span>{{item.good}}</span>
                                     <button>看相似</button>
                                 </p>
                             </li>
                         </ul>
                     </div>
                 </main>
-
-
             </section>
             <footer>
                 <ul>
@@ -758,8 +518,6 @@
                     <li><img src="../../static/img/footer/f_5.png"></li>
                 </ul>
             </footer>
-
-            <!--<router-view></router-view>-->
         </div>
     </div>
 </template>
@@ -806,6 +564,9 @@
                     observeParents:true,
                     debugger: true
                 },
+                arr: {
+
+                }
             }
         },
         computed: {
@@ -814,8 +575,16 @@
             }
         },
         mounted() {
-        //   console.log('this is current swiper instance object', this.swiper)
-        //   this.swiper.slideTo(3, 1000, false)
+            //   console.log('this is current swiper instance object', this.swiper)
+            //   this.swiper.slideTo(3, 1000, false)
+        },
+        created() {
+            var _this = this;
+            this.axios.get("/fenlei").then(function(res){
+                console.log(res)
+                _this.arr = res.data[0].conten;
+            })
+
         }
     }
 </script>
@@ -1002,6 +771,7 @@
         font-size: .12rem;
         text-decoration: line-through;
     }
+
     .footer_list{
         width: 100%;
         height: auto;
